@@ -5,6 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/diannedudley/post-install-config)
   - [osTicket: Lifecycle Intake Through Resolution](https://github.com/diannedudley/os-Ticket-Ticket-Lifecycle-Intake-Through-Resolution)
+  - [osTicket: Proper Categorizing](https://github.com/diannedudley/Proper-Categorizing)
 
 <h2>🤳Connect with me:</h2>
 
