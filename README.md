@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/dianne-c-dudley">IT Professional</a>☺</h1>
+<h1>Hi, I'm Dianne, an <a href="https://www.linkedin.com/in/dianne-c-dudley">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
